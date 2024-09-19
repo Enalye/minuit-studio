@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/minuit-studio
+minuit-studio.so
+minuit-studio.dylib
+minuit-studio.dll
+minuit-studio.a
+minuit-studio.lib
+minuit-studio-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
